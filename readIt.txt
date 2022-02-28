@@ -7,3 +7,4 @@ repo2
 b7 8
 
 fstbranch
+fstbranch2
