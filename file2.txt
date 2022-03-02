@@ -2,3 +2,5 @@ file2
 fstbranch
 
 cd /C/se/proj/gittest
+
+git push -u origin master
