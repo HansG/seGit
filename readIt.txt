@@ -14,5 +14,4 @@ fstbranch4
 fstbranch5 in akdb
 fstbranch6 in home
 fstbranch6 in akdb
-fstbranch7 in akdb
 
